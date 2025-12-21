@@ -1,0 +1,26 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]user[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+
+# OS
+.DS_Store
+*.pid
+*.swp
+
+# Android
+*.apk
+*.aab
+*.keystore
