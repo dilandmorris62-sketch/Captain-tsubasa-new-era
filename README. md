@@ -1,0 +1,27 @@
+# Captain Tsubasa: Android Game
+
+Un juego de fútbol inspirado en Captain Tsubasa para Android, desarrollado en Unity.
+
+## 🎮 Características
+- Partidos de fútbol estilo arcade
+- Técnicas especiales (Drive Shot, Tiger Shot, etc.)
+- Controles táctiles optimizados para móviles
+- Sistema de stamina
+- Modo torneo y partido rápido
+
+## 📱 Plataforma
+- Android 8.0+
+- Pantalla táctil
+- Idioma: Español/Inglés
+
+## 🚀 Instalación
+1. Descargar APK desde Releases
+2. Permitir instalación desde fuentes desconocidas
+3. Instalar y jugar
+
+## 🛠️ Desarrollo
+- Unity 2021.3.11f1
+- C#
+- Git
+
+## 📂 Estructura del Proyecto
