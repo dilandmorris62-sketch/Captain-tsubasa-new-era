@@ -1,0 +1,84 @@
+{
+  "teams": [
+    {
+      "id": "nankatsu",
+      "name": "Nankatsu SC",
+      "country": "Japón",
+      "color_primary": "#FF0000",
+      "color_secondary": "#FFFFFF",
+      "players": [
+        {"id": 10, "name": "Tsubasa Ozora", "position": "MF", "special": "Drive Shot"},
+        {"id": 11, "name": "Kojiro Hyuga", "position": "FW", "special": "Tiger Shot"},
+        {"id": 9, "name": "Taro Misaki", "position": "MF", "special": "Eagle Shot"}
+      ]
+    },
+    {
+      "id": "toho",
+      "name": "Toho Academy",
+      "country": "Japón",
+      "color_primary": "#0000FF",
+      "color_secondary": "#FFFFFF",
+      "players": [
+        {"id": 10, "name": "Kojiro Hyuga", "position": "FW", "special": "Tiger Shot"},
+        {"id": 1, "name": "Ken Wakashimazu", "position": "GK", "special": "Butterfly Catch"}
+      ]
+    },
+    {
+      "id": "musashi",
+      "name": "Musashi FC",
+      "country": "Japón",
+      "color_primary": "#228B22",
+      "color_secondary": "#FFFFFF",
+      "players": [
+        {"id": 10, "name": "Jun Misugi", "position": "MF", "special": "Beauty Shot"},
+        {"id": 9, "name": "Masao Tachibana", "position": "FW", "special": "Skylab Twin Shot"}
+      ]
+    },
+    {
+      "id": "furano",
+      "name": "Furano FC",
+      "country": "Japón",
+      "color_primary": "#FFA500",
+      "color_secondary": "#000000",
+      "players": [
+        {"id": 10, "name": "Hikaru Matsuyama", "position": "MF", "special": "Hurricane Shot"},
+        {"id": 1, "name": "Genzo Wakabayashi", "position": "GK", "special": "Captain's Courage"}
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Selección Brasil",
+      "country": "Brasil",
+      "color_primary": "#FFFF00",
+      "color_secondary": "#008000",
+      "players": [
+        {"id": 10, "name": "Carlos Santana", "position": "FW", "special": "Miracle Overhead"},
+        {"id": 11, "name": "Zagal", "position": "FW", "special": "Amazon Wave"}
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Selección Alemania",
+      "country": "Alemania",
+      "color_primary": "#000000",
+      "color_secondary": "#FF0000",
+      "players": [
+        {"id": 10, "name": "Karl Heinz Schneider", "position": "FW", "special": "Fire Shot"},
+        {"id": 1, "name": "Muller", "position": "GK", "special": "Fire Catch"}
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Selección Japón",
+      "country": "Japón",
+      "color_primary": "#0000FF",
+      "color_secondary": "#FFFFFF",
+      "players": [
+        {"id": 10, "name": "Tsubasa Ozora", "position": "MF", "special": "Drive Shot"},
+        {"id": 9, "name": "Kojiro Hyuga", "position": "FW", "special": "Tiger Shot"},
+        {"id": 11, "name": "Jun Misugi", "position": "MF", "special": "Beauty Shot"},
+        {"id": 1, "name": "Genzo Wakabayashi", "position": "GK", "special": "Captain's Courage"}
+      ]
+    }
+  ]
+    }
