@@ -1,0 +1,28 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name: .NET
+
+en :
+  empujar :
+    ramas : [  "principal"  ]
+  solicitud_de_extracción :
+    ramas : [  "principal"  ]
+
+trabajos :
+  construir :
+
+    se ejecuta en : ubuntu-latest
+
+    pasos :
+    - usos : acciones/checkout@v4
+    - nombre : Configuración .NET
+      usos : acciones/setup-dotnet@v4
+      con :
+        versión dotnet : 8.0.x
+    - nombre : Restaurar dependencias
+      ejecutar : dotnet restore
+    - nombre : Construir
+      ejecutar : dotnet build --no-restore
+    - nombre : Prueba
+      ejecutar : dotnet test --no-build --verbosity normal
