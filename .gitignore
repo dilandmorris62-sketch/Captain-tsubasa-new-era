@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Asset meta data, project settings and other generated files
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.sln.dotsettings
+*.tmproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+.vscode/
+.vs/
+.idea/
+*.userprefs
+
+# Build results
+*.apk
+*.aab
+
+# Crash dumps
+*.stacktrace
+
+# Git LFS pointer files (if using LFS)
+*.psd
+*.png
+*.jpg
+*.fbx
+*.zip
